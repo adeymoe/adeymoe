@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced ML & Advanced AI**
 
-- 💬 Ask me about **Python, PHP , Javascript, Music**
+- 💬 Ask me about **Python, Java, PHP , Javascript, Music**
 
 - 📫 How to reach me **araoyed@gmail.com**
 
