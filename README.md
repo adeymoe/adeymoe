@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADEDAMOLA</h1>
-<h3 align="center">I am a versatile Software Engineer and Data Scientist, with strong foundation in both frontend and backend development.</h3>
+<h3 align="center">Your super engineer, with strong foundation in both frontend and backend development.</h3>
 
 - 🌱 I’m currently learning **Advanced ML & Advanced AI**
 
